@@ -474,6 +474,11 @@ body {
     gap: 28px;
 }
 
+.main-s-dish__content-price {
+    display: flex;
+    gap: 20px;
+}
+
 .main-s-dish__images {
     display: flex;
     flex-direction: column;
